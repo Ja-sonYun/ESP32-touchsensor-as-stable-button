@@ -3,6 +3,7 @@ this really simple library will let you use esp32's touch sensor as a stable but
 
 
 # example code
+```cpp
 #include "touchSensor.h"
 
 TouchSensor selectButton(T9, 9);
